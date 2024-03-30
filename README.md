@@ -1,0 +1,2 @@
+# .github
+Riddles FOCG community
